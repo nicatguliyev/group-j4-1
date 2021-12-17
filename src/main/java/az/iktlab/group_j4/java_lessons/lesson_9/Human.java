@@ -29,6 +29,7 @@ package az.iktlab.group_j4.java_lessons.lesson_9;
         if (surname != null)
             s.append(", surname='").append(surname).append('\'');
         s.append("xxfffffvvx");
+        s.append("yyyy");
         return s.toString();
     }
 }
