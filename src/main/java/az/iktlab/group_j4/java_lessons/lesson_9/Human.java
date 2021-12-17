@@ -30,6 +30,7 @@ package az.iktlab.group_j4.java_lessons.lesson_9;
             s.append(", surname='").append(surname).append('\'');
 
         s.append("}");
+        s.append("mmm");
         return s.toString();
     }
 }
